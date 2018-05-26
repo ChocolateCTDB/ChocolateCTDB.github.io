@@ -16,11 +16,12 @@
 title: Chocolate CTDB
 email: huaanhminh0412@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Chocolate CTDB
+    © 2017-2018 Chocolate CTDB
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://huaanhminh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+facebook_username: anhminh0412
+twitter_username: o0baragaki0o
+github_username:  VARIACION
 
 # Build settings
 markdown: kramdown
